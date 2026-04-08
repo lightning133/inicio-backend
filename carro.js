@@ -1,11 +1,10 @@
-carro1="fusca"
-carro2="chevette"
-
-kmcarro1=5;
-kmcarro2=3;
-
-precocarro1=20;
-precocarro2=10;
-Tptalcarro
-
-console.log("o fusca"precocarro1)
+carro1="Caravan";
+carro2="HB20";
+km1=86;
+km2=52;
+preço1=19;
+preço2=22;
+totalcarro1= km1*preço1;
+totalcarro2= km2*preço2;
+console.log("O carro", carro1,"teve o gasto de:" ,totalcarro1);
+console.log("O carro", carro2,"teve o gasto de:" ,totalcarro2);
